@@ -1,5 +1,5 @@
 {
-    "name": "fbptech/bigcommerce-api-php",
+    "name": "bigcommerce/api",
     "type": "library",
     "description": "Enables PHP applications to communicate with the Bigcommerce API.",
     "keywords": ["api", "http", "rest", "ecommerce", "business"],
