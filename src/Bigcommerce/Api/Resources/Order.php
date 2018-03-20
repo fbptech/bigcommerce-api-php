@@ -4,6 +4,7 @@ namespace Bigcommerce\Api\Resources;
 
 use Bigcommerce\Api\Resource;
 use Bigcommerce\Api\Client;
+use Bigcommerce\Api\Filter;
 
 class Order extends Resource
 {
